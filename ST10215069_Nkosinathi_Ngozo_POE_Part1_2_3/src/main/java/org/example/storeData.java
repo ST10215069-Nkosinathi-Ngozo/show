@@ -47,6 +47,12 @@ public class storeData {//A class that is used to store the arrays of users
             case "f" -> rd.deleteTask(taskName);
             case "g" -> rd.displayDetails(developerDetails,taskName,taskID,taskDuration,taskStatus);
         }
+
+
+    }
+
+    public void test(){
+
     }
 }
 
